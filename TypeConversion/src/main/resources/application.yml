@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/learning_java_db
+    username: simple_learning_user
+    password: root
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    show-sql: false
+server:
+  port: 8080

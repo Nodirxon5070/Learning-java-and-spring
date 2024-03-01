@@ -1,0 +1,11 @@
+Casting ikki turga bo'linadi
+1 Implicit casting
+2 Explicit casting
+
+1)Implicit casting bu kirib kelagan qiymatning taypi cast qilinayotgan typedan kichik
+bo'lsa bu Implicit casting (noaniq casting ) deyiladi.
+
+2)Explicit casting bu kirib kelayotgan qiymatning taypi cast qilinayotgan typedan katta
+bo'lsa bu Explicit casting (aniq casting) deyiladi.
+
+
